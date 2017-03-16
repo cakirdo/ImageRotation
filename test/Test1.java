@@ -96,5 +96,5 @@ public class Test1 {
      @Test
      public void testy45() {
          assertEquals( 0.707, ImageRotation.rotatedY(x, y, 45),3);
-     }
+     } 
 }
